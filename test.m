@@ -1,2 +1,2 @@
 %GitHub Test file
-display('Hello GitHub2');
+display('Hello GitHub');
