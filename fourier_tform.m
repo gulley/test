@@ -43,7 +43,7 @@ switch option
         r =  1./[1 5 35/3 21];
         w =     [1 2 3 4];
 
-    case 'test',
+    case 'test'
         theta0 = [0 0 0 0];
         r =  1./[1 2 3 5];
         w =     [1 2 3 5];
